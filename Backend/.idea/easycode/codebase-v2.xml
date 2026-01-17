@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Config/KeycloakRoleConverter.java;C:/Users/mishr/Downloads/hac_oc/demo/src/main/java/com/example/demo/Config/SecurityConfig.java;C:/Users/mishr/Downloads/hac_oc/demo/src/main/java/com/example/demo/DemoApplication.java;C:/Users/mishr/Downloads/hac_oc/demo/src/main/java/com/example/demo/TestController.java;C:/Users/mishr/Downloads/hac_oc/demo/src/test/java/com/example/demo/DemoApplicationTests.java" />
+  </component>
+</project>
