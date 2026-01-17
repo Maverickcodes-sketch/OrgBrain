@@ -46,11 +46,11 @@ demo/src/main/java/com/example/orgbrain/
 Edit `src/main/resources/application.properties`:
 
 ```properties
-spring.datasource.url=jdbc:mariadb://localhost:3306/mydb
-spring.datasource.username=root
-spring.datasource.password=admin
+spring.datasource.url=jdbc:mariadb://localhost:3306/{dbname}
+spring.datasource.username={yourusername}
+spring.datasource.password={yourpassword}
 spring.ai.ollama.base-url=http://localhost:11434
-spring.security.oauth2.resourceserver.jwt.issuer-uri=http://localhost:8083/realms/project-erp
+spring.security.oauth2.resourceserver.jwt.issuer-uri=http://localhost:8083/realms/{yourrealm}
 ```
 
 ### 2. Build & Run
